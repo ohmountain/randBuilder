@@ -1,0 +1,19 @@
+{
+    "name": "renshan/randbuilder",
+    "description": "A data builder",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "renshan",
+            "email": "1005110700@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "src"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
